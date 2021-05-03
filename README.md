@@ -15,5 +15,8 @@ My Jam :pencil2:
 ![](https://img.shields.io/badge/Nativescript-grey?style=flat&logo=nativescript)
 
 <img src="images/googlecloud.svg" height="20" style="color: #fff" /> ![](https://img.shields.io/badge/GCP-grey?style=flat&logo=GCP) 
-<img src="images/amazonaws.svg" height="20" style="color: #fff" /> ![](https://img.shields.io/badge/AWS-grey?style=flat&logo=aws)
+<img src="images/amazonaws.svg" height="20" style="color: #fff" /> ![](https://img.shields.io/badge/AWS-grey?style=flat&logo=aws)  
+
+
+![More details of my work experience](Professional_Experience.md)
 
