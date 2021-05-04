@@ -18,5 +18,5 @@ My Jam :pencil2:
 <img src="images/amazonaws.svg" height="20" style="color: #fff" /> ![](https://img.shields.io/badge/AWS-grey?style=flat&logo=aws)  
 
 
-![More details of my work experience](Professional_Experience.md)
+[More details of my work experience](Professional_Experience.md)
 
