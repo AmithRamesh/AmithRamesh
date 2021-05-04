@@ -40,7 +40,7 @@ Google AutoML | Google Appengine | Google cloud storage | Google Cloud Functions
 A platform with web and mobile apps to send and receive notifications in real time at scale.
 
 Angular | Nativescript(for mobile app) | Java | Spring  
-REST APIs
+REST APIs  
 Google Appengine | Google Cloud Functions | Google Cloud Tasks | Google Cloud Datastore | Firebase Authentication | Firebase Cloud Messaging | Firebase Hosting  
 
 - APIs to send messages and push notifications to an user or a group of users.
@@ -58,7 +58,7 @@ Google Appengine | Google Cloud Tasks | Google Cloud Datastore | Firebase Authen
 An Angular PWA  - organized library for content such as documents and videos.
 
 Angular | Java | Spring  
-REST APIs
+REST APIs  
 Google Appengine | Google Cloud Storage | Google Cloud Firestore | Firebase Authentication  
 
 ### Events
