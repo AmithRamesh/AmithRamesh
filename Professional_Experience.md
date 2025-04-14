@@ -1,10 +1,29 @@
-A Software engineer, Full-stack.  
-Designing and implementing an ecosystem of mobile and web applications with RESTful APIs and GraphQL APIs on 
-Amazon Web Services(AWS) and Google Cloud Platform(GCP).
+## SONICWALL TECHNOLOGY SYSTEMS, INDIA, PVT. LTD.,
+### Staff Engineer, Reporting and Analytics, NSM
+A data engineer, NSM - [Network Security Manager](https://www.sonicwall.com/products/management-and-reporting/network-security-manager) - Reporting and Analytics.  
+  
+Architecting and implementing data pipelines that process large volumes of data from Firewalls with performance and cost optimizations, Data lake solutions to handle petabytes of data for up to 365 days serving multiple clients.  
+## Projects  
+
+### Datalake optimization
+A datalake serving petabyte scale of data. Capable of serving both real-time and historical requirements. Support advance data analytics and processing. Serves multiple clients apart from the data processing pipeline.
+
+AWS | Kinesis Streams | Firehose Datastreams | Lambda | Apache Iceberg | Redshift | Redshift Spectrum | Athena | DynamoDB | S3 | Glue | EMR | IAM  
+Scala | Spark | Python | PySpark | Go lang
+
+### UDP Collector
+A collector to continously read and process the data received on the UDP port.  
+Go lang | Microservice
+
+### Optimizations
+EMR Optimization enabling the EMRs to process data near real-time. Efficiently process the backlog and historical data as required.  
+AWS | EMR | Scala | Spark
 
 ## GLOBALFOUNDRIES ENGINEERING PVT. LTD.,
 ### Sr. Analyst, Data systems and Automation
-
+A Software engineer, Full-stack.  
+Designing and implementing an ecosystem of mobile and web applications with RESTful APIs and GraphQL APIs on 
+Amazon Web Services(AWS) and Google Cloud Platform(GCP).
 ## Projects
 
 ### Idea Management

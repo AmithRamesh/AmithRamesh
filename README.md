@@ -1,22 +1,15 @@
 ### Hi there 👋 I am Amith
 
-I am a Software Engineer(Full Stack).  
-Building web(Angular, PWA) and mobile(Nativescript) applications with REST and GraphQL APIs on AWS and GCP.  
-Specialize in serverless applications on AWS and GCP.  
+I am a Data Engineer.  
+Building data pipelines on AWS and GCP.  
   
 My Jam :pencil2:   
 
-![](https://img.shields.io/badge/Python-grey?style=flat&logo=python) ![](https://img.shields.io/badge/Flask-grey?style=flat&logo=flask) ![](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas) ![](https://img.shields.io/badge/NumPy-grey?style=flat&logo=numpy) ![](https://img.shields.io/badge/SciKitLearn-grey?style=flat&logo=scikit-learn)  
-
-![](https://img.shields.io/badge/Java-grey?style=flat&logo=java) ![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring)  
-
-![](https://img.shields.io/badge/Typescript-grey?style=flat&logo=typescript) ![](https://img.shields.io/badge/Angular-grey?style=flat&logo=angular) ![](https://img.shields.io/badge/PWA-grey?style=flat&logo=pwa) 
-
-![](https://img.shields.io/badge/Nativescript-grey?style=flat&logo=nativescript)
-
-<img src="images/googlecloud.svg" height="20" style="color: #fff" /> ![](https://img.shields.io/badge/GCP-grey?style=flat&logo=GCP) 
-<img src="images/amazonaws.svg" height="20" style="color: #fff" /> ![](https://img.shields.io/badge/AWS-grey?style=flat&logo=aws)  
-
+![](https://img.shields.io/badge/Python-grey?style=flat&logo=python) ![](https://img.shields.io/badge/Go-grey?style=flat&logo=go) ![](https://img.shields.io/badge/Scala-grey?style=flat&logo=scala)   
+![](https://img.shields.io/badge/Spark-grey?style=flat&logo=spark) ![](https://img.shields.io/badge/Iceberg-grey?style=flat&logo=iceberg) ![](https://img.shields.io/badge/Hudi-grey?style=flat&logo=hudi)  
+![](https://img.shields.io/badge/Architecture-grey?style=flat) ![](https://img.shields.io/badge/Data-Engineering-grey?style=flat)  
+![](https://img.shields.io/badge/AWS-grey?style=flat&logo=aws) 
+![](https://img.shields.io/badge/GCP-grey?style=flat&logo=GCP) 
 
 [More details of my work experience](Professional_Experience.md)
 
