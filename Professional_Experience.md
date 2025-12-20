@@ -1,91 +1,67 @@
-## SONICWALL TECHNOLOGY SYSTEMS, INDIA, PVT. LTD.,
-### Staff Engineer, Reporting and Analytics, NSM
-A data engineer, NSM - [Network Security Manager](https://www.sonicwall.com/products/management-and-reporting/network-security-manager) - Reporting and Analytics.  
-  
-Architecting and implementing data pipelines that process large volumes of data from Firewalls with performance and cost optimizations, Data lake solutions to handle petabytes of data for up to 365 days serving multiple clients.  
-## Projects  
+# Professional Experience
 
-### Datalake optimization
-A datalake serving petabyte scale of data. Capable of serving both real-time and historical requirements. Support advance data analytics and processing. Serves multiple clients apart from the data processing pipeline.
+## SONICWALL TECHNOLOGY SYSTEMS | INDIA  
+### Staff Engineer – Reporting and Analytics, NSM  
+*Network Security Manager (NSM) - Reporting and Analytics*
 
-AWS | Kinesis Streams | Firehose Datastreams | Lambda | Apache Iceberg | Redshift | Redshift Spectrum | Athena | DynamoDB | S3 | Glue | EMR | IAM  
-Scala | Spark | Python | PySpark | Go lang
+Architecting and implementing high-throughput data pipelines to process massive datasets from global firewall deployments. Designed petabyte-scale data lake solutions with 365-day retention, optimized for both performance and cost-efficiency to serve a diverse client base.
 
-### UDP Collector
-A collector to continously read and process the data received on the UDP port.  
-Go lang | Microservice
+### Key Projects
 
-### Optimizations
-EMR Optimization enabling the EMRs to process data near real-time. Efficiently process the backlog and historical data as required.  
-AWS | EMR | Scala | Spark
+#### Data Lake Optimization (Petabyte Scale)
+Designed and implemented a scalable data lake capable of handling petabytes of data, supporting both real-time and historical analytical requirements.
+- **Impact:** Engineered a multi-tenant solution that serves various clients beyond the primary data processing pipeline.
+- **Technologies:** AWS (Kinesis, Firehose, Lambda, Redshift, Redshift Spectrum, Athena, DynamoDB, S3, Glue, EMR, IAM), Apache Iceberg, Hudi, Scala, Spark, Python, PySpark, Go.
 
-## GLOBALFOUNDRIES ENGINEERING PVT. LTD.,
-### Sr. Analyst, Data systems and Automation
-A Software engineer, Full-stack.  
-Designing and implementing an ecosystem of mobile and web applications with RESTful APIs and GraphQL APIs on 
-Amazon Web Services(AWS) and Google Cloud Platform(GCP).
-## Projects
+#### High-Performance IPFIX Collector
+Co-engineered and Developed a robust IPFIX collector as a Go-based microservice to continuously ingest and process network data via UDP.
+- **Technologies:** Go, Microservices Architecture.
 
-### Idea Management
-A web platform to manage campaigns/Hackathons where users submit ideas and votes peer ideas.  
+#### Analytical Workload & EMR Optimization
+Optimized Amazon EMR clusters to enable near real-time data processing for analytics and efficient handling of massive historical backlogs for reporting.
+- **Impact:** Significantly reduced processing latency and improved the scalability of realtime data processing and historical data re-processing.
+- **Technologies:** AWS, EMR, Scala, Spark, Python, PySpark.
 
-Angular | Python  
-GraphQL APIs  
-AWS Amplify | AWS Appsync | AWS S3 | AWS DynamoDB | AWS Cognito | AWS Lambda | AWS API Gateway
+#### Encryption/ Decryption Module
+Designed and implemented a secure encryption/decryption module to protect sensitive firewall files meant for cloud backup with AWS KMS. This module has further capabilities to integrate with other types of data storage and retrieval systems as well.
+- **Impact:** Enhanced data security and compliance with industry standards. Files are now encrypted before being uploaded to S3, DSSE-KMS encrypted at rest in S3 and decrypted(server and client side) after being downloaded from S3.
+- **Technologies:** AWS (KMS , S3, IAM), Go, Go Module for Microservices.
 
-One of a kind serverless web application with mostly no backend code because of Appsync and GraphQL APIs included in the design. Users can share any type of file(documents, videos, photos, etc.,) to support their submission.  
+---
 
-Upside of this architecture:
-- Significant reduction in infrastructure cost and operations cost.
-- Ease of maintainence.
-- Rapid prototyping and roll out of new features.
-- More time to enhance UI/UX since minimal effort needed on backend for services with CRUD operations.
+## GLOBALFOUNDRIES ENGINEERING | INDIA  
+### Senior Analyst – Data Systems and Automation  
+*Full-Stack Software Engineer*
 
-Downside of this architecture:
-- Vendor lockin
+Designed and implemented a comprehensive ecosystem of mobile and web applications, leveraging REST and GraphQL APIs on Amazon Web Services (AWS) and Google Cloud Platform (GCP). Focused on building scalable, event-driven applications that automate enterprise workflows.
 
-### Defect Classification
-An ecosystem to train, classify and analyze images and predict if it has a defect from production floor in real time. A reactive and event driven application.  
+### Key Projects
 
-Angular | Python | Flask  
-REST APIs  
-Google AutoML | Google Appengine | Google cloud storage | Google Cloud Functions | Google BigQuery | Google Firestore | Firebase Authentication | Firebase Cloud Messaging | Google Cloud Tasks | Firebase Hosting
+#### Strategic Idea Management Platform
+Architected a serverless web platform to manage global innovation campaigns and hackathons, facilitating idea submission and peer voting.
+- **Architectural Innovation:** Devised a unique "near-zero backend" architecture using AWS AppSync and GraphQL, significantly reducing infrastructure overhead.
+- **Value Delivered:** Enabled rapid prototyping, reduced maintenance complexity, and allowed for a primary focus on enhancing UI/UX.
+- **Technologies:** Angular, Python, GraphQL, AWS (Amplify, AppSync, S3, DynamoDB, Cognito, Lambda, API Gateway).
 
-- Using AutoML to train machine learning model and predict whether an image has any defects in real time with cloud storage and cloud functions. 
-- Appenigne REST APIs and Angular PWA(Progressive Web App) with Material Design UI/UX for users to interact with the data.
-- APIs to interact and take advantage of BigQuery from the web app.
+#### Real-time Defect Classification System
+Developed a reactive, event-driven ecosystem to classify and analyze production floor images in real-time using machine learning.
+- **Impact:** Integrated Google AutoML to predict defects instantly, streamlining quality control processes.
+- **Architecture:** Built a Progressive Web App (PWA) with Material Design for seamless user interaction and real-time data visualization.
+- **Technologies:** Angular, Python, Flask, Google Cloud (AutoML, App Engine, GCS, Cloud Functions, BigQuery, Firestore, Firebase Auth, FCM, Cloud Tasks, Hosting).
 
-### Enterprise Notifications
-A platform with web and mobile apps to send and receive notifications in real time at scale.
+#### Enterprise Notification System
+Designed a scalable, cross-platform notification engine (Web & Mobile) capable of delivering real-time messages at scale.
+- **Capabilities:** Enabled multi-channel notifications (Push, In-app) via NativeScript and Angular PWAs, accessible from any enterprise server or the central portal.
+- **Technologies:** Angular, NativeScript (Android/iOS), Java, Spring, Google Cloud (App Engine, Cloud Functions, Cloud Tasks, Datastore, Firebase).
 
-Angular | Nativescript(for mobile app) | Java | Spring  
-REST APIs  
-Google Appengine | Google Cloud Functions | Google Cloud Tasks | Google Cloud Datastore | Firebase Authentication | Firebase Cloud Messaging | Firebase Hosting  
+#### Mobile Enterprise Approval Workflow
+Developed a secure mobile application for executive-level business approvals across multiple internal systems.
+- **Technologies:** NativeScript, Java, Spring, Google Cloud (App Engine, Cloud Tasks, Datastore, Firebase).
 
-- APIs to send messages and push notifications to an user or a group of users.
-- Nativescript Mobile(Android and iOS) and Angular PWA apps to manage messages and groups for users.
-- Message can be sent from any machine or server or from the web portal.
+#### Digital Content Library (eBook)
+Engineered an Angular-based PWA to serve as a centralized, high-performance library for documents and video content.
+- **Technologies:** Angular, Java, Spring, Google Cloud (App Engine, GCS, Firestore, Firebase Auth).
 
-### Enterprise Approval
-A mobile app enabling users to securely approve many types of business approvals.
-
-Nativescript | Java | Spring  
-REST APIs  
-Google Appengine | Google Cloud Tasks | Google Cloud Datastore | Firebase Authentication | Firebase Cloud Messaging  
-
-### eBook
-An Angular PWA  - organized library for content such as documents and videos.
-
-Angular | Java | Spring  
-REST APIs  
-Google Appengine | Google Cloud Storage | Google Cloud Firestore | Firebase Authentication  
-
-### Events
-An event scheduler app like the Google I/O app, but in this app, user can manage multiple events and schedules.
-
-Angular | Python | Flask  
-REST APIs  
-Google Cloud Functions | Google Cloud Firestore
-
-## POCs
-Docker | MongoDB | AWS Fargate | Google Cloud Run | Pandas | NumPy | Scikit-learn
+#### Enterprise Event Scheduler
+Developed a multi-event scheduling application, inspired by Google I/O, allowing users to manage complex schedules for internal corporate events.
+- **Technologies:** Angular, Python, Flask, Google Cloud (Functions, Firestore).
